@@ -1,0 +1,19 @@
+{
+  "name": "school-website-homepage",
+  "version": "1.0.0",
+  "description": "Diplomna",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShadowOfDiablo/School-website-homepage.git"
+  },
+  "author": "ShadowOfDiablo",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ShadowOfDiablo/School-website-homepage/issues"
+  },
+  "homepage": "https://github.com/ShadowOfDiablo/School-website-homepage#readme"
+}
