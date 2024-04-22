@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ShadowOfDiablo/School-website-homepage/issues"
   },
-  "homepage": "https://github.com/ShadowOfDiablo/School-website-homepage#readme"
+  "homepage": "https://github.com/ShadowOfDiablo/School-website-homepage#readme",
+  "dependencies": {
+    "node": "^18.20.2"
+  }
 }
